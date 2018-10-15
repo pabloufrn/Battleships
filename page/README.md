@@ -1,6 +1,6 @@
 
 ## battleships
-![Captura de tela](https://github.com/pabloufrn/battleships/blob/master/screenshot.png)
+<img src="https://github.com/pabloufrn/battleships/blob/master/screenshot.png">
 
 Essa jogo surgiu a partir de uma sugestão de atividade proposta na disciplina de Linguagem de Programação 1 pelo professor Selan R. Dos Santos.
 
