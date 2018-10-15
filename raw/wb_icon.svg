@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg912"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="wb_icon.svg"
+   inkscape:export-filename="/home/pablo/Documents/projects/battleships /page/wb_icon.png"
+   inkscape:export-xdpi="288"
+   inkscape:export-ydpi="288">
+  <defs
+     id="defs906" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="6.4808474"
+     inkscape:cy="48.163161"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1524"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     units="px"
+     inkscape:window-width="1440"
+     inkscape:window-height="871"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata909">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <g
+       id="g1524"
+       transform="matrix(1.1633237,0,0,1.1490855,-79.106158,174.45235)">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path819"
+         d="m 70.432525,93.025754 c 0,0 1.542578,4.463754 2.136531,4.623066 0.593952,0.159313 11.393087,0 11.393087,0 0,0 2.156426,0.450656 2.355536,-4.700663"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.07496739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path821"
+         d="M 70.373989,92.926244 86.384496,92.714296"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.07997015px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path823"
+         d="m 77.879001,89.023329 c -0.027,0.217093 -1.538877,3.473493 -1.538877,3.473493 h 2.888769 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.07578805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path825"
+         d="m 83.825678,86.507702 v 6.027076 h 1.538876 v -6.274764 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.09347585px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         transform="scale(1.3286116,0.75266542)"
+         id="text835"
+         y="134.25739"
+         x="51.7687"
+         style="font-style:normal;font-weight:normal;font-size:3.14607215px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0786518px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#ffffff;stroke-width:0.0786518px"
+           y="134.25739"
+           x="51.7687"
+           id="tspan833"
+           sodipodi:role="line">Battleships</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1501"
+         d="m 72.695704,92.401889 2.215253,-0.01569 -0.234007,-1.216831 h -1.809642 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.49419469px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.97245193,0.23310349,-0.13954776,0.99021534,0,0)"
+         ry="0.016591495"
+         y="72.745903"
+         x="82.156364"
+         height="0.03318299"
+         width="3.6634288"
+         id="rect1503"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.44003445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="89.009773"
+         x="77.89389"
+         height="3.5250001"
+         width="5.2654967"
+         id="rect1505"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.81530064;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="0.67652601"
+         y="88.360374"
+         x="78.871605"
+         height="1.353052"
+         width="2.9585516"
+         id="rect1507"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.60905588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
