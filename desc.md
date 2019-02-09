@@ -1,6 +1,6 @@
 
 # Battleships
-![](https://raw.githubusercontent.com/pabloufrn/Snaze/master/screenshot.png)  
+![](https://raw.githubusercontent.com/pabloufrn/battleships/master/screenshot.png)   
 Battleships é uma jogo muito conhecido tabuleiro, no qual você tem 
 quer acertar o navio dos inimigos por meio de sua coordenada.  
 A versão que eu fiz é feita em C++ 11 utilizando a biblioteca SFML.
